@@ -1,6 +1,6 @@
 import React from 'react'
-import BrandingBg from '../Assets/IMAGES/BrandingBg.png'
-import Brands from '../Assets/IMAGES/Brands.png'
+import BrandingBg from '../assets/IMAGES/BrandingBg.png'
+import Brands from '../assets/IMAGES/Brands.png'
 
 
 const Branding1 = () => {

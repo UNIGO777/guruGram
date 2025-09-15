@@ -1,5 +1,5 @@
 import React from 'react'
-import OurMissionBg from '../Assets/IMAGES/OurMissionBg.png'
+import OurMissionBg from '../assets/IMAGES/OurMissionBg.png'
 
 const data = [
     {

@@ -1,8 +1,8 @@
 import React, { useEffect, useRef, useState } from 'react'
-import HeroImg from '../Assets/IMAGES/HeroSection.png'
-import SunImg from '../Assets/IMAGES/Sun.png'
-import LeavesOverlay from '../Assets/IMAGES/LeavesOverlay.png'
-import Cloudes from '../Assets/IMAGES/Cloude.png'
+import HeroImg from '../assets/IMAGES/HeroSection.png'
+import SunImg from '../assets/IMAGES/Sun.png'
+import LeavesOverlay from '../assets/IMAGES/LeavesOverlay.png'
+import Cloudes from '../assets/IMAGES/Cloude.png'
 import { ArrowDown } from 'lucide-react'
 
 const Hero = () => {
