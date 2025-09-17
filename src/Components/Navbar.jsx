@@ -98,7 +98,7 @@ const Navbar = () => {
 
     return (
         <motion.nav
-            className={`  w-full fixed top-0 z-50 transition-all duration-300  `}
+            className={`${navBackground} w-full  fixed top-0 z-50 transition-all duration-300 py-4  `}
             initial="hidden"
             animate="visible"
             variants={navVariants}
@@ -111,7 +111,7 @@ const Navbar = () => {
                         variants={itemVariants}
                         whileHover={{ scale: 1.05 }}
                     >
-                        <span className="text-4xl   text-black">
+                        <span className={`text-4xl `}>
                            GramGurukul
                         </span>
                     </motion.div>
